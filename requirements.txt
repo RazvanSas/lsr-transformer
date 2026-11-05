@@ -1,0 +1,5 @@
+torch
+mediapipe
+opencv-contrib-python
+numpy
+streamlit
